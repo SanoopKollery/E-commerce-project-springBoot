@@ -100,7 +100,7 @@
 					<td>
 						<%= rs.getInt(5) %>
 					</td>
-					<td>S
+					<td>₹
 						<%= rs.getInt(6) %>
 					</td>
 					<td>
